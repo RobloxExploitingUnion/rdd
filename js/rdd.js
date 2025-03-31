@@ -1,7 +1,8 @@
 /*
-    rdd - https://github.com/latte-soft/rdd
+    rdd - https://github.com/RobloxExploitingUnion/rdd
 
-    Copyright (C) 2024-2025 Latte Softworks <latte.to> | MIT License
+    Copyright (C) 2024-2024 Latte Softworks <latte.to> | MIT License
+    Copyright (C) 2025- Roblox Explotiting Union <github.com/RobloxExploitingUnion> | MIT License
 */
 
 const basePath = window.location.href.split("?")[0];

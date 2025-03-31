@@ -1,8 +1,8 @@
-[commits]: https://github.com/latte-soft/rdd/commits
-[badges/last-modified]: https://img.shields.io/github/last-commit/latte-soft/rdd?label=Last%20Modifed
+[commits]: https://github.com/RobloxExploitingUnion/rdd/commits
+[badges/last-modified]: https://img.shields.io/github/last-commit/RobloxExploitingUnion/rdd?label=Last%20Modifed
 
 > [!CAUTION]
-> The only *official* host of RDD is [**`rdd.[latte.to]`**](https://rdd.latte.to). Under no circumstances is Latte Softworks responsible for any potential harm caused by using an unofficial fork/rehost of RDD, though anyone is free to fork off of or rehost RDD as it is under the MIT license. RDD is a static website with none of its own backend infrastructure, binaries are fetched directly from Roblox's official content delivery network via [**`setup-cfly.[rbxcdn.com]`**](https://setup-cfly.rbxcdn.com).
+> The only *official* host of RDD is [**`rdd.[yuup.lol]`**](https://rdd.yuup.lol). Under no circumstances is Latte Softworks responsible for any potential harm caused by using an unofficial fork/rehost of RDD, though anyone is free to fork off of or rehost RDD as it is under the MIT license. RDD is a static website with none of its own backend infrastructure, binaries are fetched directly from Roblox's official content delivery network via [**`setup-cfly.[rbxcdn.com]`**](https://setup-cfly.rbxcdn.com).
 
 ## RDD ("Roblox Deployment Downloader")
 
@@ -10,7 +10,7 @@
 
 Locally download Roblox deployments (Windows/Mac) directly from your browser!
 
-Hosted officially @ <https://rdd.latte.to>
+Hosted officially @ <https://rdd.yuup.lol>
 
 ### What is this?
 
@@ -19,7 +19,7 @@ RDD can assemble plain resources directly from Roblox's [`setup`](https://setup.
 ### Usage
 
 ```txt
-[*] USAGE: https://rdd.latte.to/?channel=<CHANNEL_NAME>&binaryType=<BINARY_TYPE>&version=<VERSION_HASH>
+[*] USAGE: https://rdd.yuup.lol/?channel=<CHANNEL_NAME>&binaryType=<BINARY_TYPE>&version=<VERSION_HASH>
 
     Binary Types:
     * WindowsPlayer
@@ -60,6 +60,7 @@ See file: [LICENSE](LICENSE)
 MIT License
 
 Copyright (c) 2024-2025 Latte Softworks <https://latte.to>
+Copyright (c) 2025- Roblox Explotiting Union <https://github.com/RobloxExploitingUnion>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
